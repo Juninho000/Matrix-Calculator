@@ -1,4 +1,4 @@
-## Statistical-Calculator
+## Matrix-Calculator
 
 #### PT
 
